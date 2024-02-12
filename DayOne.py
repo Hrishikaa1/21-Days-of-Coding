@@ -1,3 +1,5 @@
+## hello, I will be trying me level best to learn all the basic concepts while creating projects. This is my day one 
+
 import random
 import math
 # Taking Inputs
@@ -40,5 +42,4 @@ while count < math.log(upper - lower + 1, 2):
 if count >= math.log(upper - lower + 1, 2):
 	print("\nThe number is %d" % x)
 	print("\tBetter Luck Next time!")
-
-# Better to use This source Code on pycharm!
+## This was the most basic code I tried which helped me brushup all the concepts 
