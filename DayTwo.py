@@ -1,3 +1,5 @@
+# THIS CODE WILL FIND ALL THE DIFFRENCES IN GIVEN 2 PICTURES [important note: SIZE OF PICTURES SHOULD BE SAME]
+
 import cv2
 def compare_images(image1_path, image2_path):
     # Read the images given here
